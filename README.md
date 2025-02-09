@@ -1,7 +1,4 @@
-# jpnb
-tips
-
-#jpnb dark theme
+# jpnb dark theme
 
 
 # jpnb to py
