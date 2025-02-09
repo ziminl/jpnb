@@ -1,9 +1,10 @@
 # jpnb
 tips
 
+#jpnb dark theme
 
 
-jpnb to py
+# jpnb to py
 
 > pip install nbconvert  
 
