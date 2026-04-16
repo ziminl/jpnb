@@ -1,6 +1,6 @@
-pip install notebook
+> pip install notebook
 
-jupyter notebook
+> jupyter notebook
 
 
 
