@@ -1,3 +1,9 @@
+pip install notebook
+
+jupyter notebook
+
+
+
 # jpnb dark theme
 https://www.youtube.com/watch?v=DnkxaEgen0E
 
